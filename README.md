@@ -37,6 +37,16 @@ As a full-stack developer, I am passionate about building scalable and efficient
 <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a>
 </p>
 
+<details>
+  <summary><h2> <img align="center" src="https://github.com/dsmabulage/dsmabulage/blob/main/icons/stats.gif" width="32"/> Stats</h2></summary>
+  <div align="center">
+    ![](https://github-readme-stats.vercel.app/api?username=dsmabulage&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
+    ![](https://github-readme-streak-stats.herokuapp.com/?user=dsmabulage&theme=tokyonight&hide_border=false)<br/>
+    ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dsmabulage&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
+    ![](https://github-readme-activity-graph.vercel.app/graph?username=dsmabulage&theme=tokyo-night)
+  </div>
+</details>
+
 
 ### Socials
 
