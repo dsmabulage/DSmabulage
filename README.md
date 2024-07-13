@@ -40,14 +40,23 @@ As a full-stack developer, I am passionate about building scalable and efficient
 <details>
   <summary><h2> <img align="center" src="https://github.com/dsmabulage/dsmabulage/blob/main/icons/stats.gif" width="32"/> Stats</h2></summary>
   <div align="center">
-    ![](https://github-readme-stats.vercel.app/api?username=dsmabulage&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
-    ![](https://github-readme-streak-stats.herokuapp.com/?user=dsmabulage&theme=tokyonight&hide_border=false)<br/>
-    ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dsmabulage&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
-    ![](https://github-readme-activity-graph.vercel.app/graph?username=dsmabulage&theme=tokyo-night)
+    <img src="https://github-readme-stats.vercel.app/api?username=dsmabulage&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats"><br/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dsmabulage&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats"><br/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dsmabulage&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages"><br/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=dsmabulage&theme=tokyo-night" alt="GitHub Activity Graph">
   </div>
 </details>
 
 
+
 ### Socials
 
-<p align="left"> <a href="https://www.dev.to/dileepamabulage" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> <a href="https://www.github.com/DSmabulage" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@dileepa.mabulage.edu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/20865302/dileepa-mabulage" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/dsmabulage"><img src="https://github-readme-stats.vercel.app/api?username=dsmabulage&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="dsmabulage's GitHub stats" /></a>
+
+<a href="http://www.github.com/dsmabulage"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dsmabulage&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="https://github.com/dsmabulage" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dsmabulage&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
